@@ -22,7 +22,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
   - 🔊 Buzzer Piezoelétrico (para alertar a liberação de comida)
 
- - 🛠 Motor de 12v
+  - 🛠 Motor de 12v
 
   - 🛠 Realay(converter energia para o motor de 12v)
 
