@@ -22,7 +22,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
   - 🔊 Buzzer Piezoelétrico (para alertar a liberação de comida)
 
-  - 💡 LEDs (para indicar o estado do sistema)
+ - 🛠 Motor de 12v
+
+  - 🛠 Realay(converter energia para o motor de 12v)
+
 
 ### 📝 Estrutura do Código
 
@@ -38,21 +41,21 @@ O código está organizado da seguinte forma:
 
 ### 🔌 Montagem do Circuito
 
-### 📦 Materiais Necessários:
+- 📦 Materiais Necessários:
 
-- ✅ 1 x Arduino Uno
+ - ✅ 1 x Arduino Uno
 
-- ✅ 1 x Servo Motor (testando diferentes modelos)
+ - ✅ 1 x Servo Motor (testando diferentes modelos)
 
-- ✅ 1 x Sensor Ultrassônico HC-SR04
+ - ✅ 1 x Sensor Ultrassônico HC-SR04
 
-- ✅ 1 x Buzzer Piezoelétrico
+ - ✅ 1 x Buzzer Piezoelétrico
 
-- ✅ 2 x LEDs (Verde e Vermelho)
+ - ✅ 2 x LEDs (Verde e Vermelho)
 
-- ✅ Resistores adequados
+ - ✅ Resistores adequados
 
-- ✅ Fonte de alimentação 12V (para motor)
+ - ✅ Fonte de alimentação 12V (para motor)
 
 ### 🖥 Esquema de Ligação:
 
